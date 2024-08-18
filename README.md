@@ -1,4 +1,4 @@
-# Developing-a--Handwritten-Classifier
+# Developing-a-Handwritten-Classifier
 Based on the extracted content from your notebook, here are the important points that can be included in the README:
 
 This project involves developing a neural network model using PyTorch to classify handwritten digits from the MNIST dataset. Below are the key steps and considerations taken throughout the project.
